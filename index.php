@@ -13,7 +13,7 @@
         Sharon Harrah Portfolio in email format
     </span>
     <div class="brand-logo">
-        <img src="https://www.dropbox.com/s/wd4jd3isqhdq0xg/brand.png?dl=0" alt="Sharon Harrah Logo" style="max-width:100%;">
+        <img src="img/brand.png" alt="Sharon Harrah Logo" style="max-width:100%;">
     </div>
     <div class="title">
             <h2>Work Breakdown</h2>
